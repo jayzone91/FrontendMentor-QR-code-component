@@ -1,0 +1,25 @@
+{
+  "name": "frontendmentor-qr-code-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass styles.scss styles.css --watch --style=compressed",
+    "build": "sass styles.scss styles.css --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzone91/FrontendMentor-QR-code-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayzone91/FrontendMentor-QR-code-component/issues"
+  },
+  "homepage": "https://github.com/jayzone91/FrontendMentor-QR-code-component#readme",
+  "devDependencies": {
+    "sass": "^1.58.0"
+  }
+}
